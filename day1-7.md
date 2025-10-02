@@ -60,7 +60,7 @@ Wir **haben** eine Wanderung **gemacht**.*
 Grammatical terms in German:
 das **Perfekt**: The present perfect is a tense used to describe the past. It comprises a conjugated auxiliary verb (*haben* or *sein*) and the past participle.
 
-![image-20251003000454524](/Users/enlik/GitRepo/30dayslearngerman/img/day1-7/image-20251003000454524.png)
+![image-20251003000454524](./img/day1-7/image-20251003000454524.png)
 
 ## 01 Oct
 
@@ -101,5 +101,5 @@ https://learngerman.dw.com/en/mengen-und-preise/l-37628421
 - Tafel Schokolade = bar of Chocolate
 - Dose Mais = can of corn
 
-![image-20251003000547348](/Users/enlik/GitRepo/30dayslearngerman/img/day1-7/image-20251003000547348.png)
+![image-20251003000547348](./img/day1-7/image-20251003000547348.png)
 
