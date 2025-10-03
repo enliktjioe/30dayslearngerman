@@ -1,5 +1,50 @@
 # Week 1
 
+## 03 Oct
+
+### Nicosweg A1 - Chapter 13 Weather and Holiday - part 2
+
+**Sentences:**
+
+- Die Männer haben Nicos Tasche genommen.
+  The men took Nico's bag.
+- Frühling ist es wärmer [als](https://learngerman.dw.com/en/when-is-it-warmer-when-is-it-colder/l-37651758/e-37654612#) im Winter.
+- Im Herbst ist es nicht so kalt wie im Winter
+- Im Winter ist es kälter als im Herbst.
+
+**Vocab:**
+
+- Frühling = Spring
+- Sommer = Summer
+- Herbst = Autumn
+- Winter = Winter
+
+
+
+#### Irregular comparative and superlative
+
+![image-20251003232648888](./img/day1-7/image-20251003232648888.png)
+
+#### Regular comparative and superlative
+
+![image-20251003232915101](./img/day1-7/image-20251003232915101.png)
+
+#### Making comparisons
+
+When we are referring to equal attributes (e.g., the same size as, as good as), we use the standard form of the adjective. The adjective is then preceded by "[genauso](https://learngerman.dw.com/en/making-comparisons/l-37651758/e-39035319#)" and followed by "[wie](https://learngerman.dw.com/en/making-comparisons/l-37651758/e-39035319#)". In the case of a direct comparison, we use "[als](https://learngerman.dw.com/en/making-comparisons/l-37651758/e-39035319#)" after the comparative adjective.
+
+![image-20251003233226615](./img/day1-7/image-20251003233226615.png)
+
+#### Comparative
+
+Diesen Winter ist es sehr kalt. Aber im letzten Winter war es ***als*** diesen Winter. Im Jahr 2009 war es am kältesten.
+
+#### Superlative
+
+Morgen wird es warm. Übermorgen wird es wärmer als morgen. Aber am Wochenende wird es ***am wärmsten***.
+
+
+
 ## 02 Oct
 
 ### Nicosweg A1 - Chapter 13 Weather and Holiday - part 1
