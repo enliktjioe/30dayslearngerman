@@ -1,5 +1,136 @@
 # Week 1
 
+## 04 Oct
+
+### Nicosweg A1 - Chapter 13 Weather and Holiday - part 3 and 4
+
+**Sentences:**
+
+- Wir haben die Hochzeit von meinem Onkel gefeiert.
+  We celebrated my uncle's wedding.
+
+- Wir sind geschwommen und wir haben gegrillt.
+
+  We swam and we barbecued or grilled.
+
+- Wir haben bei meiner Cousine übernachtet.
+  We spent the night at my cousin's.
+
+- Wir haben drei Jahreszeiten: eine heiße Jahreszeit, die Regenzeit und eine [kühle](https://learngerman.dw.com/en/weather-and-climate/l-37653197/e-37654435#) Jahreszeit.
+  We have three seasons: a hot season, the rainy season and a cool season.
+
+- Vorgestern war es kalt und regnerisch. Der Himmel war grau.
+  The day before yesterday it was cold and rainy. The sky was gray.
+
+- An einem Morgen im Urlaub war es sehr neblig.
+  One morning on vacation it was very foggy.
+
+- Wir sind im Urlaub spät aufgewacht.
+  We woke up late on vacation.
+
+- Wir sind im Urlaub spät eingeschlafen.
+  We fell asleep late on vacation.
+
+- Im Urlaub sind wir selten im Hotel geblieben.
+  On holiday, we rarely stayed in the hotel.
+
+- Im Nebel ist ein Unfall passiert.
+  In the Fog accident happened.
+
+**Vocab:**
+
+- Der Ausflug = the excursion
+- regnerisch = rainy
+- bewölkt = cloudy
+- neblig = foggy
+- schneit / Schnee = snow
+
+
+
+#### Article
+
+![image-20251004120354912](./img/day1-7/image-20251004120354912.png)
+
+#### Talking about the weather
+
+When talking about the weather, the subject is neuter because it is impossible to say "who" or "what" is raining. In German, the word "es" is used to refer to the weather. There are two ways to say this:
+
+1. Es ist + adjective
+   Es ist sonnig.
+
+2. Es + verb
+   Es regnet.
+
+
+
+**Grammar**
+
+![image-20251004113341072](./img/day1-7/image-20251004113341072.png)
+
+#### **Partizipien II (past form)**
+
+![image-20251004113407015](./img/day1-7/image-20251004113407015.png)
+
+![image-20251004113921497](./img/day1-7/image-20251004113921497.png)
+
+- lachen - gelacht
+
+
+
+##### Past participle: Verbs with prefixes (1)
+
+- Verbs with inseparable prefixes like "be-", "zer-", "er-", "ent-", "ver-", etc. form the past participle without "ge-" at the beginning.
+  - beginnen → (hat) begonnen
+  - verrühren → (hat) verrührt
+- By the way: Verbs with the ending "-ieren" also form the past participle without "ge-" and always end in "-t".
+  - studieren → (hat) studiert
+
+##### Past participle: Verbs with prefixes (2)
+
+- With separable verbs, the past participle is formed this way: separable prefix (ab-/an-/auf-/aus-/ein-/...) + "ge-" + verb root + "-t"/"-en": auf-ge-räum-t
+  - abwaschen -> ab ge wasch en
+  - fernsehen -> fern ge seh en
+  - aufräumen - auf ge räum t
+  - einkaufen - ein ge kauf t
+  - aufstehen - auf ge stand en
+  - anrufen - angerufen
+  - ankommen - angekommen
+
+#### **Present Perfect**
+
+Do you remember? With verbs of motion, you form the present perfect tense with the verb "sein".
+
+![image-20251004113533016](./img/day1-7/image-20251004113533016.png)
+
+Other examples:
+
+- Selma **ist** zur Hochzeit von ihrem Onkel nach Hamburg **gefahren**.
+- Selma **ist** zusammen mit den anderen Gästen spazieren **gegangen**.
+- Selma **ist** im See **geschwommen**.
+
+
+
+For verbs of non-motion
+
+![image-20251004113606922](./img/day1-7/image-20251004113606922.png)
+
+- Selma **hat** auf der Hochzeit **gegessen**, **gesungen** und **getanzt**.
+
+**Write sentences in the present perfect:**
+
+- Ich fahre nach Spanien.
+  **Ich bin nach Spanien gefahren.**
+- Was machst du in Spanien?
+  **Was hast du in Spanien gemacht?**
+- Schwimmst du im Meer?
+  **Bist du im Meer geschwommen?**
+- Wanderst du in den Bergen?
+  **Bist du in den Bergen gewandert?**
+- Trinkst du Wein?
+  **Hast du Wein getrunken?**
+
+
+
 ## 03 Oct
 
 ### Nicosweg A1 - Chapter 13 Weather and Holiday - part 2
@@ -42,6 +173,25 @@ Diesen Winter ist es sehr kalt. Aber im letzten Winter war es ***als*** diesen W
 #### Superlative
 
 Morgen wird es warm. Übermorgen wird es wärmer als morgen. Aber am Wochenende wird es ***am wärmsten***.
+
+
+
+### Comparison
+
+**Comparative forms of** ***gut\*****,** ***gern\*****,** ***viel\***
+
+![image-20251004112114533](./img/day1-7/image-20251004112114533.png)
+
+![image-20251004112314538](./img/day1-7/image-20251004112314538.png)
+
+- *Die Tasche mit den Flaschen ist **schwer**.*
+- *Nicos Tasche* ist **schwerer**.
+- Der Koffer ist **am schwersten**
+
+**Comparative with words containing umlauts**
+Many single-syllable adjectives with the vowels *a*, *o* or *u* take an umlaut in the comparative and superlative forms. This is also true of the adjective *gesund,* though it has two syllables.
+
+![image-20251004112429881](./img/day1-7/image-20251004112429881.png)
 
 
 
