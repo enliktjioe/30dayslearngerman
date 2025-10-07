@@ -1,5 +1,92 @@
 # Week 1
 
+## 07 Oct
+
+### Nicosweg A1 - Chapter 14 Clothing - part 1
+
+**Vocabs:**
+
+- der Pullover = sweater
+- Hose = pants
+- die Turnschuhe = sneakers
+- Farbe = color
+
+
+
+#### "ein", "eine" or "einen"?
+
+![image-20251007221408622](./img/day1-7/image-20251007221408622.png)
+
+![image-20251007221459789](./img/day1-7/image-20251007221459789.png)
+
+
+
+#### Declension of adjectives
+
+After an indefinite article, adjectives in the nominative and accusative cases take the same ending as the definite article.
+
+After an indefinite masculine article, the nominative adjectival ending is "-er", like "der", and the accusative ending is "-en", like "den".
+
+After an indefinite feminine article, the adjectival ending in the nominative and accusative is "-e", like "die".
+
+After an indefinite neuter article, the adjectival ending in the nominative and accusative is "-s", like "das".
+
+Before plural nouns, the adjectival ending is always "-e", like "die".
+
+![image-20251007221940449](./img/day1-7/image-20251007221940449.png)
+
+![image-20251007222343512](./img/day1-7/image-20251007222343512.png)
+
+
+
+## 05 + 06 Oct
+
+### Practice Nominative / Akkusativ / Dativ via ChatGPT and Google Gemini
+
+| Infinitiv | Perfekt                        | Meaning             |
+| --------- | ------------------------------ | ------------------- |
+| lernen    | Ich habe Deutsch gelernt.      | I learned German.   |
+| essen     | Er hat Pizza gegessen.         | He ate pizza.       |
+| fahren    | Wir sind nach Berlin gefahren. | We drove to Berlin. |
+| schlafen  | Du hast lange geschlafen.      | You slept long.     |
+
+
+
+#### Short overview
+
+| **Case**      | **Used for**                          | **Question word** | **Example**                     |
+| ------------- | ------------------------------------- | ----------------- | ------------------------------- |
+| **Nominativ** | Subject (who/what does the action?)   | **Wer? / Was?**   | **Der Mann** isst.              |
+| **Akkusativ** | Direct object (who/what is affected?) | **Wen? / Was?**   | Ich sehe **den Mann**.          |
+| **Dativ**     | Indirect object (to/for whom?)        | **Wem?**          | Ich gebe **dem Mann** ein Buch. |
+
+## 
+
+#### Definite articles (der/die/das → changes)
+
+| Case          | Masculine | Feminine | Neuter | Plural             |
+| ------------- | --------- | -------- | ------ | ------------------ |
+| **Nominativ** | der       | die      | das    | die                |
+| **Akkusativ** | den       | die      | das    | die                |
+| **Dativ**     | dem       | der      | dem    | den (+ -n on noun) |
+
+
+
+#### Pronoun Case Practice
+
+| **Pronoun Choice**       | **Nominative** | **Accusative** | **Dative** |
+| ------------------------ | -------------- | -------------- | ---------- |
+| I / me                   | **ich**        | **mich**       | **mir**    |
+| you (singular, informal) | **du**         | **dich**       | **dir**    |
+| he / him                 | **er**         | **ihn**        | **ihm**    |
+| she / her                | **sie**        | **sie**        | **ihr**    |
+| we / us                  | **wir**        | **uns**        | **uns**    |
+| they / them              | **sie**        | **sie**        | **ihnen**  |
+
+
+
+
+
 ## 04 Oct
 
 ### Nicosweg A1 - Chapter 13 Weather and Holiday - part 3 and 4
